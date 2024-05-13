@@ -28,5 +28,6 @@ Creating fake Access point to confuse people and doing social engineering
 
 2. Since the computer I was using was from the college, It had the firewall setting to not to accept the untrustworthy networks and that is why it was not showing the channels in that computer. When I changed the computer to a private computer, it worked.
 ## The screenshot of the final result
-[Picture1]([https://github.com/mdshafiqulbaten/CSN150-Midterm-Documentation/blob/main/Screenshot%202024-03-20%20145947.png](https://github.com/mdshafiqulbaten/CSN-150-Final-Project/blob/main/code%20for%20the%20project.png)
+[Picture1](https://github.com/mdshafiqulbaten/CSN-150-Final-Project/blob/main/code%20for%20the%20project.png)
+
 [Picture2](https://github.com/mdshafiqulbaten/CSN-150-Final-Project/blob/main/wifi%20list.jpg)
